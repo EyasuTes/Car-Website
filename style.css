@@ -177,4 +177,12 @@ ul{
     background-color: #3882F6;
     color: white;
     font-weight: 600;
+}.sec5{
+    display: flex;
+    justify-content: center;
+    background-color: #1F2937;
+    color: white;
+    font-size: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
