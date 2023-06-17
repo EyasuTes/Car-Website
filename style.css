@@ -7,8 +7,8 @@ body{
 .sec1{
     background-color: #1F2937;
     color: aliceblue;
-    padding-left: 300px;
-    padding-right: 300px;
+    padding-left: 20%;
+    padding-right: 15%;
     margin: 0;
     padding-bottom: 70px;
     display: flex;
@@ -113,6 +113,31 @@ ul{
 .sec3{
     display: flex;
     flex-direction: column;
+    
+    
+    background-color: #E5E7EB;
+    
+    
+    margin: 0;
+    padding: 80px;
+    padding-right: 15%;
+    padding-left: 15%;
+
+}.sec31{
+    display: flex;
     justify-content: center;
     align-items: center;
+    font-size: 36px;
+    font-family: light italic;
+    color: #1F2937;
+    font-weight: 100;
+    
+}.sec32{
+    font-size: 24px;
+    font-weight: 800;
+    color: #1F2937;
+    display: flex;
+    justify-content: right;
+    text-align: right;
+
 }
